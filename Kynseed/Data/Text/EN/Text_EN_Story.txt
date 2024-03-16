@@ -161,8 +161,8 @@ Day11Intro |= You can use the stove in the farmhouse to make some jams. There ar
 Day11Intro |= Whatever you decide to cook, good luck! Don't worry if you don't win first time out. Some of Vale's adults do get very competitive! But, heh, you never know!
 
 UncleDay13 |= 섬머타이드가 가까워졌구나! 
-UncleDay13 |= I've got a lovely idea for something for you to build today. Did you know you can collect animal poo in a wooden bucket and pour it onto crop patches?
-UncleDay13 |= You can use a Composter to store excess poops for when you need it. I've added a Pig Composter to your Customisation Catalogue if you want to build one. You'll need a little wood and a friend to help out. They don't take long to build. Just don't build it too near the house, eh? *wink*
+UncleDay13 |= 오늘은 멋진 아이디어가 떠올랐단다. 동물의 대변을 나무통에 담은 후 농작물 밭에다 부을 수 있다는걸 알고 있니?
+UncleDay13 |= 나중에 필요할 때를 대비해 퇴비통을 사용해 남은 대변을 보관할 수 있단다. 너가 만들고 싶을때를 생각해서 카탈로그에 돼지 퇴비통을 추가해 두었다. 너에게 조금의 나무와 도와줄 친구가 필요할거야. 만드는데 그리 오래 걸리지는 않단다. 단지 너무 집 근처 가까운 곳에 짓지는 마렴, 알았지? *윙크*
 UncleDay13 |= Oh, and this came for you. It's from that stickboy across the river. 
 
 트위그LetterRead |= 흥미롭네. 나는 그 소년과 함께 스스로를 조심할 거야. 다리로 코를 긁는 사람은 절대 믿지마. 어쨌든, 오늘 조심해. 베일 밖에 괴물이 돌아다닌다는 소문을 들었어. 두렵지는 않지만, 네가 잡아먹히고 게으른 뼈가 막대사탕처럼 빨리는 건 싫어.
@@ -306,7 +306,7 @@ JackIntro |= 나는 안목 있는 고객을 위해 은하계 및 차원간 거�
 JackIntro |= I have a retail store on Peckham IV and various warehouses from Saturn to the 5th dimension.\nI've been in business since the dawning of the Age of Aquarius.\nMy clients include Gods and Demons, amoebas and timedukes, titans and thimblefolk.
 JackIntro |= I take cash, credit card, Nebuline or souls. Pan-galactic Express? That'll do nicely. That always triggers a nice response from me.
 JackIntro |= In your case, Brass is acceptable, mainly because it is in high demand by the Brasseaters of IBS Major. 
-JackIntro |= Now then, what can I do you for?
+JackIntro |= 자 그럼, 내가 뭘 해줄 수 있을까?
 JackIntroRepeat |= Greetings again! What may I do for you this fine cosmic day?
 
 Ghost1PH |= Ohhhh! Beware! You come to seek the mould. A fearsome creature guards it. I have one of the code numbers you need to access the key from the chest! My compatriots will tell you more about 'her'. Trouble lies ahead.
@@ -316,11 +316,11 @@ Ghost2PH |= Garth can tell you more. My code number for you is 6. Take great hee
 Ghost3PH |= So, you have spoken to my comrades. Yes, I was the stupid one that woke her. Do not go near her unless you are prepared... and can run quickly!
 Ghost3PH |= There is a way to banish her, as written in a book we put in the chest with the tomb key. If only I had not been greedy and forgotten what we needed to do... well... then it would be a different story.
 Ghost3PH |= Take my code number... 8. The whole number is 668, the number of the Beast's mum.
-Ghost3PH |= The creature. She is a foul and evil being. Be strong! Stay true to your goal! Focus!
-Ghost3PH |= Good luck, friend.
+Ghost3PH |= 그 괴물. 그녀는 추악하고 사악한 존재야. 힘내! 목표에 충실하고! 집중해!
+Ghost3PH |= 행운을 빌어, 친구.
 
-MoonAwaitingMeleeComplete |= Greetings. I am Moon, the Master Archer. My comrade-in-arms, Jogon, said you would come. You should probably go and complete his training first. I will be here, awaiting your next step.
-SiblingDay6 |= 오늘은 특별한 날이di. 빌 삼촌의 생일이거든. 가족 소풍을 가기로 했어! 정말 신나네!
+MoonAwaitingMeleeComplete |= 반갑다. 내 이름은 Moon, 궁수 마스터다. 나의 전우, 조곤이 너가 여기로 올거라 하더군. 먼저 그의 훈련을 완료하고 와야 할 것 같구나. 그 다음 단계를 위해 여기서 기다리고 있으마.
+SiblingDay6 |= 오늘은 특별한 날이야. 빌 삼촌의 생일이거든. 가족 소풍을 가기로 했어! 정말 신나네!
 SiblingDay6 |= 우리는 뻐꾸기 숲으로 갈거야. 정오에 그곳에서 만나!
 UncleBillMissedPicnic |= 오 내 생일 피크닉에 참석하지 못해서 조금 아쉽지만 바빳다면 이해하마. 함께 했다면 정말 좋았을 텐데 말이야.
 SiblingMissedPicnic |= 어디 있었어? 놓쳤잖아! 지도책으로 너의 위치를 찾을 수 없을 수도 있지. 빌 삼촌이 슬퍼하셨지만 어쨌든 우리는 너 없이도 즐거운 시간을 보냈어. 가끔은 다른 사람을 생각해야 해. 아니면 더 좋은 민들레를 구하거나!
